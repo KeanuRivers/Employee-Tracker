@@ -1,0 +1,24 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "View and manage the department, roles and employees at your company",
+  "main": "Employee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeanuRivers/Employee-Tracker.git"
+  },
+  "author": "Keanu Rivers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeanuRivers/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/KeanuRivers/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^9.1.1",
+    "mysql2": "^2.3.3"
+  }
+}
