@@ -154,10 +154,10 @@ function init() {
         case "view employee":
           viewEmployees()
           break;
-        case "view roles":
+        case "view role":
           viewRoles()
           break;
-        case "view departments":
+        case "view department":
           viewDepartments()
           break;
         default:
